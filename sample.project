@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+    <name>MQDemoApp</name>
+    <comment></comment>
+    <projects/>
+    <buildSpec/>
+    <natures>
+        <nature>com.ibm.etools.mft.applicationNature</nature>
+    </natures>
+</projectDescription>
