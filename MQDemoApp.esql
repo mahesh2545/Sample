@@ -1,0 +1,8 @@
+CREATE COMPUTE MODULE MQDemoApp_Compute
+    CREATE FUNCTION Main() RETURNS BOOLEAN
+    BEGIN
+        -- Just copy input to output
+        SET OutputRoot = InputRoot;
+        RETURN TRUE;
+    END;
+END MODULE;
